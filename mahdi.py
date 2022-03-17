@@ -8,7 +8,7 @@ d88' `"Y8 `P  )88b   888  d88' `"Y8 `888  `888   888  `P  )88b    888   d88' `88
 `Y8bod8P' `Y888""8o o888o `Y8bod8P'  `V88V"V8P' o888o `Y888""8o   "888" `Y8bod8P' d888b   \033[1;37m
                                                                                            
                                                                                            
-                     8 DISITE                                                             
+                  \033[1;97mYOU CAN FIND THE SUM OF  8 NUMBER
 \033[1;34m===============================================================
 CREATED BY\033[1;31mMAHDI HASAN(SHUVO)\033[0;16m
 FB ; https://web.facebook.com/mahdi80808
