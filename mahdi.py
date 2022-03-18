@@ -1,3 +1,15 @@
+import requests
+
+from requests.structures import CaseInsensitiveDict
+
+import os
+
+import sys
+
+import time
+
+os.system("pip install requests")
+
 os.system("clear")
 print("""                    oooo                        oooo                .  \033[4;31m          
                     `888                        `888              .o8                      
